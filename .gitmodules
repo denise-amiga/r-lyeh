@@ -1,0 +1,24 @@
+[submodule "fwk"]
+	path = fwk
+	url = git@github.com:r-lyeh/fwk.git
+[submodule "stdpack.c"]
+	path = stdpack.c
+	url = git@github.com:r-lyeh/stdpack.c.git
+[submodule "tinybits"]
+	path = tinybits
+	url = git@github.com:r-lyeh/tinybits.git
+[submodule "stdarc.c"]
+	path = stdarc.c
+	url = git@github.com:r-lyeh/stdarc.c.git
+[submodule "stddoc.c"]
+	path = stddoc.c
+	url = git@github.com:r-lyeh/stddoc.c.git
+[submodule "stdstring.h"]
+	path = stdstring.h
+	url = git@github.com:r-lyeh/stdstring.h.git
+[submodule "core"]
+	path = core
+	url = git@github.com:r-lyeh/core.git
+[submodule "ulicense"]
+	path = ulicense
+	url = git@github.com:r-lyeh/ulicense.git
